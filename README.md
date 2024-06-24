@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**eliasescalante/eliasescalante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Texto alternativo](https://github.com/eliasescalante/eliasescalante/blob/main/banner_2_link.jpg)
 
-Here are some ideas to get you started:
+# Hola, soy ¡Elias! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy estudiante de la Tecnicatura en Programación Universitaria y me apasiona todo lo relacionado con la tecnología y el desarrollo de software. 
+Soy un desarrollador apasionado que busca crear aplicaciones tanto de escritorio como web robustas y escalables.
+Tambien me gusta el desarrollo en Videojuegos  y siempre estoy dispuesto para aprender nuevas tecnologias.
+
+## Habilidades
+
+- **Lenguajes de programación**: Python, JavaScript, Java, SQL
+- **Frameworks**: Django
+- **Front-End**: HTML, CSS, SASS, Bootstrap
+- **Base de datos**: MySQL, SQLite
+- **Desarrollo de videojuegos**: Godot Engine 4
+
