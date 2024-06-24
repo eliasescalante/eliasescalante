@@ -1,7 +1,8 @@
+# Hola, soy ¡Elias! 👋
 
 ![Texto alternativo](https://github.com/eliasescalante/eliasescalante/blob/main/banner_2_link.jpg)
 
-# Hola, soy ¡Elias! 👋
+
 
 ## Sobre mí
 
