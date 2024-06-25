@@ -6,9 +6,7 @@
 
 ## Sobre mí
 
-Soy estudiante de la Tecnicatura en Programación Universitaria y me apasiona todo lo relacionado con la tecnología y el desarrollo de software. 
-Soy un desarrollador apasionado que busca crear aplicaciones tanto de escritorio como web robustas y escalables.
-Tambien me gusta el desarrollo en Videojuegos  y siempre estoy dispuesto para aprender nuevas tecnologias.
+Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gran pasión por la tecnología y el desarrollo de software. Como desarrollador entusiasta, me esfuerzo por crear aplicaciones robustas y escalables, tanto para escritorio como para la web. Además, disfruto del desarrollo de videojuegos y siempre estoy en la búsqueda de aprender nuevas tecnologías y mejorar mis habilidades.
 
 ## Habilidades
 
