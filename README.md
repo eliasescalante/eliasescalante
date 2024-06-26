@@ -18,13 +18,16 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
 
 ----
 
-## Estadísticas de GitHub
+## Estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasescalante&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasescalante&layout=compact&theme=radical)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasescalante&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasescalante&layout=compact&theme=radical" alt="Top Langs" style="width: 45%;" />
+</div>
 
-## Resumen del Perfil
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasescalante&theme=vue" alt="Summary Card" style="width: 45%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliasescalante&theme=vue" alt="Repos Card" style="width: 45%;" />
+</div>
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasescalante&theme=vue)
-![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliasescalante&theme=vue)
 
