@@ -18,13 +18,6 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
 
 ----
 
-
-## Estadísticas
-
-![GitHub repo size](https://img.shields.io/github/repo-size/eliasescalante/)
-![GitHub contributors](https://img.shields.io/github/contributors/eliasescalante/)
-![GitHub stars](https://img.shields.io/github/stars/eliasescalante/repositorio?style=social)
-
 ## Estadísticas de GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasescalante&show_icons=true&theme=radical)
