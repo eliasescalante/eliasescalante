@@ -22,9 +22,12 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="height: 48px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" style="height: 48px;" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/sql.png" alt="SQL" style="height: 48px;" />
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" style="height: 48px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" style="height: 48px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" style="height: 48px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" style="height: 48px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="GDScript" style="height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="height: 48px;" />
 </div>
