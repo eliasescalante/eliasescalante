@@ -3,6 +3,7 @@
 ![Texto alternativo](https://github.com/eliasescalante/eliasescalante/blob/main/banner_2_link.jpg)
 
 
+----
 
 ## Sobre mí
 
@@ -43,5 +44,5 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliasescalante&theme=vue" alt="Repos Card" style="height: 200px;" />
 </div>
 
-
+----
 
