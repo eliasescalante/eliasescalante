@@ -20,3 +20,4 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasescalante&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasescalante&layout=compact&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasescalante&theme=vue)
