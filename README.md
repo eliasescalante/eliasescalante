@@ -21,7 +21,7 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
 
 ## Estadísticas
 
-![GitHub repo size](https://img.shields.io/github/repo-size/eliasescalante/repositorio)
+![GitHub repo size](https://img.shields.io/github/repo-size/eliasescalante/Aplicacion_PosMateriales)
 ![GitHub contributors](https://img.shields.io/github/contributors/eliasescalante/repositorio)
 ![GitHub stars](https://img.shields.io/github/stars/eliasescalante/repositorio?style=social)
 
