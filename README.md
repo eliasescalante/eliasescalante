@@ -16,3 +16,6 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
 - **Base de datos**: MySQL, SQLite
 - **Desarrollo de videojuegos**: Godot Engine 4
 
+----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasescalante&show_icons=true&theme=radical)
