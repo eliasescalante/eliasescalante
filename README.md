@@ -46,3 +46,18 @@ Soy estudiante de la Tecnicatura en Programación Universitaria, y tengo una gra
 
 ----
 
+
+# Sobre mí
+
+```python
+def sobre_mi():
+    """
+    Soy estudiante de la Tecnicatura en Programación Universitaria, 
+    y tengo una gran pasión por la tecnología y el desarrollo de software. 
+    Como desarrollador entusiasta, me esfuerzo por crear aplicaciones robustas 
+    y escalables, tanto para escritorio como para la web. Además, disfruto 
+    del desarrollo de videojuegos y siempre estoy en la búsqueda de aprender 
+    nuevas tecnologías y mejorar mis habilidades.
+    """
+    pass
+
