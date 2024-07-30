@@ -73,13 +73,5 @@ desarrollo_videojuegos = [
 ----
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasescalante&theme=vue" alt="Summary Card" style="height: 200px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliasescalante&theme=vue" alt="Repos Card" style="height: 200px;" />
-</div>
-
-----
-
-
 
 
