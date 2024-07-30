@@ -29,7 +29,9 @@ lenguajes_programacion = [
 
 # Frameworks
 frameworks = [
-    "Django"
+    "Django",
+    "Node.js",
+    "Express.js"
 ]
 
 # Front-End
@@ -43,7 +45,8 @@ front_end = [
 # Base de datos
 base_datos = [
     "MySQL",
-    "SQLite"
+    "SQLite",
+    "Mongo.DB"
 ]
 
 # Desarrollo de videojuegos
@@ -69,10 +72,6 @@ desarrollo_videojuegos = [
 
 ----
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasescalante&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasescalante&layout=compact&theme=radical" alt="Top Langs" style="height: 200px;" />
-</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasescalante&theme=vue" alt="Summary Card" style="height: 200px;" />
