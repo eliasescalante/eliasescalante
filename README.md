@@ -23,15 +23,17 @@ def sobre_mi():
 lenguajes_programacion = [
     "Python",
     "JavaScript",
-    "Java",
-    "SQL"
+    "TypeScript",
+    "SQL",
+    "GDScript"
 ]
 
 # Frameworks
 frameworks = [
     "Django",
     "Node.js",
-    "Express.js"
+    "Express.js",
+    "React.Js"
 ]
 
 # Front-End
@@ -39,7 +41,7 @@ front_end = [
     "HTML",
     "CSS",
     "SASS",
-    "Bootstrap"
+    "Bootstrap",
 ]
 
 # Base de datos
